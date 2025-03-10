@@ -1,7 +1,7 @@
-# Exercise-04c-Enemies
+# Exercise-04d-Coins
 
 ## Implementation
-
+added coins objects which you can add through the tilemap
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -12,6 +12,6 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
-
+add new assets and add/ make bigger levels
 ## Created by
-Nathan Mishler
+Blayne Baker
